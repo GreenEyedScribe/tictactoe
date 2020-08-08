@@ -1,0 +1,9 @@
+Winner,Boardstate_0,Turn_1,Boardstate_1,Turn_2,Boardstate_2,Turn_3,Boardstate_3,Turn_4,Boardstate_4,Turn_5,Boardstate_5,Turn_6,Boardstate_6,Turn_7,Boardstate_7,Turn_8,Boardstate_8,Turn_9,Boardstate_9
+1,---|---|---,B2,---|-X-|---,C2,---|-X-|-O-,A1,X--|-X-|-O-,A2,XO-|-X-|-O-,C3,XO-|-X-|-OX
+1,---|---|---,B1,---|X--|---,B2,---|XO-|---,C3,---|XO-|--X,C1,---|XO-|O-X,A3,--X|XO-|O-X,B3,--X|XOO|O-X,A1,X-X|XOO|O-X,C2,X-X|XOO|OOX,A2,XXX|XOO|OOX
+1,---|---|---,C3,---|---|--X,B1,---|O--|--X,B2,---|OX-|--X,B3,---|OXO|--X,A1,X--|OXO|--X
+1,---|---|---,C1,---|---|X--,C3,---|---|X-O,B2,---|-X-|X-O,B1,---|OX-|X-O,A3,--X|OX-|X-O
+1,---|---|---,A3,--X|---|---,C3,--X|---|--O,B2,--X|-X-|--O,C2,--X|-X-|-OO,C1,--X|-X-|XOO
+-1,---|---|---,A1,X--|---|---,B2,X--|-O-|---,A2,XX-|-O-|---,A3,XXO|-O-|---,C1,XXO|-O-|X--,B1,XXO|OO-|X--,C3,XXO|OO-|X-X,B3,XXO|OOO|X-X
+1,---|---|---,C3,---|---|--X,A2,-O-|---|--X,B2,-O-|-X-|--X,A3,-OO|-X-|--X,A1,XOO|-X-|--X
+0,---|---|---,B3,---|--X|---,B2,---|-OX|---,A1,X--|-OX|---,A3,X-O|-OX|---,C1,X-O|-OX|X--,B1,X-O|OOX|X--,A2,XXO|OOX|X--,C3,XXO|OOX|X-O,C2,XXO|OOX|XXO
